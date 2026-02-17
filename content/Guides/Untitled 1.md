@@ -1,5 +1,5 @@
 ---
-tit: Example Title
+title: Example Title
 draft: "false"
 tags:
 description:
