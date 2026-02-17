@@ -3,7 +3,7 @@ title: Welcome to Quartz
 ---
 Welcome to *The Archive*! This site is under heavy construction. Please be patient.
 
-[[Star Trek Index]]
+[[star-trek-index]]
 
 ----
 This is a blank Quartz installation.
